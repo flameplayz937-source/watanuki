@@ -53,7 +53,7 @@ input:focus {
   font-weight: 800;
   background: linear-gradient(
     90deg,
-    #fff,
+    #2200ff,
     var(--primary)
   ); /* Gradient colors */
   -webkit-background-clip: text; /* Clips the gradient to the text */
