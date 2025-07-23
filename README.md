@@ -1,7 +1,7 @@
 # Watanuki
 
 
-**Watanuki** is a modern, sleek anime streaming web application built with **React** and styled using **Tailwind CSS**. The app is designed to provide anime enthusiasts with a seamless and enjoyable streaming experience.
+**AniKaisen** is a modern, sleek anime streaming web application built with **React** and styled using **Tailwind CSS**. The app is designed to provide anime enthusiasts with a seamless and enjoyable streaming experience.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Demo
 
-Check out a live demo here: [Watanuki Live Demo](https://watanuki.vercel.app) (Add the link to your deployed app)
+Check out a live demo here: [AniKaisen Live Demo](https://anikaisen.fun) (Add the link to your deployed app)
 
 ---
 
